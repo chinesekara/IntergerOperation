@@ -47,6 +47,7 @@ public class IntegerOperation {
         c = a % b;
         System.out.println("a%b=" + c);
 
+        System.out.printf("i=%d, hex=%x\n",1000,1000);
     }
 
 }
